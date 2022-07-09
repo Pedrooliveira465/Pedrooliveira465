@@ -5,7 +5,7 @@
 - 📫 How to reach me: pedro86gugalegal@gmail.com
 
 <div align="center">
-  <a href="https://github.com/Sobin27">
+  <a href="https://github.com/Pedrooliveira465">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrooliveira465&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooliveira465&layout=compact&langs_count=7&theme=monokai"/>
 </div>
