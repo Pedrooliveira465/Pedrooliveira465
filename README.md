@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on front-end and back-end
 - 🌱 I’m currently learning Javascript and Java
-- 📫 How to reach me: pedro86gugalegal@gmail.com
+- 📫 How to reach me: pedroliveira465@gmail.com
 
 <div align="center">
   <a href="https://github.com/Pedrooliveira465">
